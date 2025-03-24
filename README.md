@@ -46,7 +46,7 @@ QDRANT_COLLECTION_NAME=vanna_repo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/vanna-ai-qa-system.git
+   git clone https://github.com/AleksandrStef/Git-repo-qa.git
    cd vanna-ai-qa-system
    ```
 
