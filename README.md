@@ -47,7 +47,7 @@ QDRANT_COLLECTION_NAME=vanna_repo
 1. Clone this repository:
    ```bash
    git clone https://github.com/AleksandrStef/Git-repo-qa.git
-   cd vanna-ai-qa-system
+   cd Git-repo-qa-main
    ```
 
 2. Create a virtual environment:
